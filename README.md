@@ -33,4 +33,3 @@ The pipeline performs a comprehensive analysis of candidate SNPs, including qual
 │   └── run_analysis.R      # Main execution script
 ├── AMD_GWAS_out/           # Output directory (Results, Tables, Figures)
 ├── README.md               # Project documentation
-└── .gitignore              # Configuration to exclude sensitive data
